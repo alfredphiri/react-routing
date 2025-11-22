@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom"
-import { BiLogoReact } from "react-icons/bi"
 
 function App() {
 
@@ -34,7 +33,7 @@ function App() {
 
           </div>
 
-
+        {/* mobile menu */}
           <div className="header-nav display-none">
             <Link to="/" className="header-logo"></Link>
             <Link to="/" className="header-logo"></Link>
