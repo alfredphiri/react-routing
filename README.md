@@ -52,7 +52,7 @@ Feel free to fork, tweak, and play around with this project! It's open for exper
 ## 🤝 Credits
 
 - **Created by**: [alfredphiri](https://github.com/alfredphiri)
-- **Enhanced & Improved Usability by**: [Antigravity Agent by Google](https://github.com/antigravity-agent)
+- **Enhanced & Improved Usability by**: [Antigravity Agent by Google](https://antigravity.google/)
 
 ---
 
