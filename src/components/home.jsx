@@ -77,7 +77,7 @@ export function Home() {
                                 </div>
                                 <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">Demo Application</h3>
                                 <p className="text-gray-600 dark:text-gray-300 mb-6">
-                                    This is a portfolio project, not a real streaming service. No movies can be played here.
+                                    This is a School project, not a real streaming service. No movies can be played here.
                                 </p>
                                 <button
                                     onClick={closeMessage}
